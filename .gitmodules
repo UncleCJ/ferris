@@ -25,3 +25,6 @@
 [submodule "tools/kicad-jlcpcb-bom-plugin"]
 	path = tools/kicad-jlcpcb-bom-plugin
 	url = https://github.com/wokwi/kicad-jlcpcb-bom-plugin.git
+[submodule "fp/daprice_keyswitches.pretty"]
+	path = fp/daprice_keyswitches.pretty
+	url = https://github.com/daprice/keyswitches.pretty
