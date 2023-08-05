@@ -1749,6 +1749,11 @@
     (pin "8" (uuid 8708ecce-81e3-4c76-9c2c-31d9f8786cad))
     (pin "9" (uuid 6071f194-9041-440f-a4fb-4f1dc0d7cf29))
     (instances
+      (project "ferris"
+        (path "/59ff0226-0fdf-4269-ab08-adcb79a798b5/00000000-0000-0000-0000-00005f5b9f94"
+          (reference "U5") (unit 1)
+        )
+      )
       (project "underglow"
         (path "/75f95e95-fee5-421e-9c41-bd357ec1f982"
           (reference "U5") (unit 1)
@@ -1858,6 +1863,11 @@
     (pin "8" (uuid a0bf7531-01b8-441b-bce8-55113f3cc8e7))
     (pin "9" (uuid 9555711e-5b20-4f6d-9fb0-351eb4671f86))
     (instances
+      (project "ferris"
+        (path "/59ff0226-0fdf-4269-ab08-adcb79a798b5/00000000-0000-0000-0000-00005f5b9f94"
+          (reference "U6") (unit 1)
+        )
+      )
       (project "underglow"
         (path "/75f95e95-fee5-421e-9c41-bd357ec1f982"
           (reference "U6") (unit 1)
@@ -1915,6 +1925,11 @@
     (pin "1" (uuid 17cd0362-b4f8-4b14-86fa-5ef79a76b267))
     (pin "2" (uuid 420c1c4a-333f-426e-a736-6a0f930a2255))
     (instances
+      (project "ferris"
+        (path "/59ff0226-0fdf-4269-ab08-adcb79a798b5/00000000-0000-0000-0000-00005f5b9f94"
+          (reference "R9") (unit 1)
+        )
+      )
       (project "underglow"
         (path "/75f95e95-fee5-421e-9c41-bd357ec1f982"
           (reference "R9") (unit 1)
@@ -1947,6 +1962,11 @@
     (pin "1" (uuid 75a7742d-7a6d-4774-baa6-ea23e1d4d4bb))
     (pin "2" (uuid 4158cf1b-50ed-479d-ac78-f6b5c2f57932))
     (instances
+      (project "ferris"
+        (path "/59ff0226-0fdf-4269-ab08-adcb79a798b5/00000000-0000-0000-0000-00005f5b9f94"
+          (reference "R10") (unit 1)
+        )
+      )
       (project "underglow"
         (path "/75f95e95-fee5-421e-9c41-bd357ec1f982"
           (reference "R10") (unit 1)
@@ -1979,6 +1999,11 @@
     (pin "1" (uuid 81b9c99a-8fab-4de0-a6a8-0919ce58ca52))
     (pin "2" (uuid c30764bc-49e8-44eb-ac3c-d3399d947c72))
     (instances
+      (project "ferris"
+        (path "/59ff0226-0fdf-4269-ab08-adcb79a798b5/00000000-0000-0000-0000-00005f5b9f94"
+          (reference "R11") (unit 1)
+        )
+      )
       (project "underglow"
         (path "/75f95e95-fee5-421e-9c41-bd357ec1f982"
           (reference "R11") (unit 1)
@@ -2036,6 +2061,11 @@
     (pin "1" (uuid ab077592-cc0b-4e80-a513-b30f4d457103))
     (pin "2" (uuid a31ff7e8-fc58-4398-9132-cd654c4ac92d))
     (instances
+      (project "ferris"
+        (path "/59ff0226-0fdf-4269-ab08-adcb79a798b5/00000000-0000-0000-0000-00005f5b9f94"
+          (reference "R12") (unit 1)
+        )
+      )
       (project "underglow"
         (path "/75f95e95-fee5-421e-9c41-bd357ec1f982"
           (reference "R12") (unit 1)
@@ -2068,6 +2098,11 @@
     (pin "1" (uuid f1263b4b-75c3-4317-bf74-53b064ca23a4))
     (pin "2" (uuid f7ada57d-3e13-4ae1-8128-b6d6ab133d8d))
     (instances
+      (project "ferris"
+        (path "/59ff0226-0fdf-4269-ab08-adcb79a798b5/00000000-0000-0000-0000-00005f5b9f94"
+          (reference "R13") (unit 1)
+        )
+      )
       (project "underglow"
         (path "/75f95e95-fee5-421e-9c41-bd357ec1f982"
           (reference "R13") (unit 1)
@@ -2100,6 +2135,11 @@
     (pin "1" (uuid 8e04752a-af76-4dcf-93f4-e8d0c48a1123))
     (pin "2" (uuid da32601a-182d-475c-b6e0-63c82ece6e82))
     (instances
+      (project "ferris"
+        (path "/59ff0226-0fdf-4269-ab08-adcb79a798b5/00000000-0000-0000-0000-00005f5b9f94"
+          (reference "R14") (unit 1)
+        )
+      )
       (project "underglow"
         (path "/75f95e95-fee5-421e-9c41-bd357ec1f982"
           (reference "R14") (unit 1)
@@ -2257,6 +2297,11 @@
     (pin "1" (uuid c1b01c75-7562-452f-a810-ea3040a44476))
     (pin "2" (uuid 9a18f7bc-b855-42a3-a5a8-1e42de4fe0ca))
     (instances
+      (project "ferris"
+        (path "/59ff0226-0fdf-4269-ab08-adcb79a798b5/00000000-0000-0000-0000-00005f5b9f94"
+          (reference "C14") (unit 1)
+        )
+      )
       (project "underglow"
         (path "/75f95e95-fee5-421e-9c41-bd357ec1f982"
           (reference "C14") (unit 1)
@@ -2289,6 +2334,11 @@
     (pin "1" (uuid 83a46518-90cd-45d1-ac77-b5eb5578baa3))
     (pin "2" (uuid be0d6dd6-3b11-4719-a3dd-7b19432040a0))
     (instances
+      (project "ferris"
+        (path "/59ff0226-0fdf-4269-ab08-adcb79a798b5/00000000-0000-0000-0000-00005f5b9f94"
+          (reference "C15") (unit 1)
+        )
+      )
       (project "underglow"
         (path "/75f95e95-fee5-421e-9c41-bd357ec1f982"
           (reference "C15") (unit 1)
@@ -2346,6 +2396,11 @@
     (pin "1" (uuid a7753a37-822f-4862-84ae-f5eb3c2faf6e))
     (pin "2" (uuid 99599ccf-6140-4cd3-a401-c5d7d49d7255))
     (instances
+      (project "ferris"
+        (path "/59ff0226-0fdf-4269-ab08-adcb79a798b5/00000000-0000-0000-0000-00005f5b9f94"
+          (reference "C16") (unit 1)
+        )
+      )
       (project "underglow"
         (path "/75f95e95-fee5-421e-9c41-bd357ec1f982"
           (reference "C16") (unit 1)
@@ -2378,6 +2433,11 @@
     (pin "1" (uuid 2e36ed88-bfd8-426e-a020-44cffcedea89))
     (pin "2" (uuid edb9d1ae-1517-480b-a47b-5a4c366d0065))
     (instances
+      (project "ferris"
+        (path "/59ff0226-0fdf-4269-ab08-adcb79a798b5/00000000-0000-0000-0000-00005f5b9f94"
+          (reference "C17") (unit 1)
+        )
+      )
       (project "underglow"
         (path "/75f95e95-fee5-421e-9c41-bd357ec1f982"
           (reference "C17") (unit 1)
@@ -2512,6 +2572,11 @@
     (pin "3" (uuid 31c4061e-9d64-4069-9fe2-c69cb7765a69))
     (pin "4" (uuid 1508aaa8-e97e-431e-a198-39a1393a7914))
     (instances
+      (project "ferris"
+        (path "/59ff0226-0fdf-4269-ab08-adcb79a798b5/00000000-0000-0000-0000-00005f5b9f94"
+          (reference "Left_RGB_0") (unit 1)
+        )
+      )
       (project "underglow"
         (path "/75f95e95-fee5-421e-9c41-bd357ec1f982"
           (reference "Left_RGB_0") (unit 1)
@@ -2546,6 +2611,11 @@
     (pin "3" (uuid 92339ddd-925d-4c4e-ba13-95c209ff4605))
     (pin "4" (uuid 8aff8b69-4e73-4ca0-bfdf-f6ecc0a20561))
     (instances
+      (project "ferris"
+        (path "/59ff0226-0fdf-4269-ab08-adcb79a798b5/00000000-0000-0000-0000-00005f5b9f94"
+          (reference "Left_RGB_1") (unit 1)
+        )
+      )
       (project "underglow"
         (path "/75f95e95-fee5-421e-9c41-bd357ec1f982"
           (reference "Left_RGB_1") (unit 1)
@@ -2580,6 +2650,11 @@
     (pin "3" (uuid f99af11a-5f53-47dc-a433-2ba310d1f0ee))
     (pin "4" (uuid 0433dda4-cfa3-4203-b5dd-045eca0a1129))
     (instances
+      (project "ferris"
+        (path "/59ff0226-0fdf-4269-ab08-adcb79a798b5/00000000-0000-0000-0000-00005f5b9f94"
+          (reference "Left_RGB_2") (unit 1)
+        )
+      )
       (project "underglow"
         (path "/75f95e95-fee5-421e-9c41-bd357ec1f982"
           (reference "Left_RGB_2") (unit 1)
@@ -2614,6 +2689,11 @@
     (pin "3" (uuid 05f0011c-8071-4176-b2cd-00383def9406))
     (pin "4" (uuid deb529ac-2dc1-44fc-90fe-6f06019a7544))
     (instances
+      (project "ferris"
+        (path "/59ff0226-0fdf-4269-ab08-adcb79a798b5/00000000-0000-0000-0000-00005f5b9f94"
+          (reference "Left_RGB_3") (unit 1)
+        )
+      )
       (project "underglow"
         (path "/75f95e95-fee5-421e-9c41-bd357ec1f982"
           (reference "Left_RGB_3") (unit 1)
@@ -2648,6 +2728,11 @@
     (pin "3" (uuid 18f90ae2-eab0-46db-8ea6-0d2df2e2c35d))
     (pin "4" (uuid 057add47-e965-48c3-9560-15d96207c01a))
     (instances
+      (project "ferris"
+        (path "/59ff0226-0fdf-4269-ab08-adcb79a798b5/00000000-0000-0000-0000-00005f5b9f94"
+          (reference "Left_RGB_4") (unit 1)
+        )
+      )
       (project "underglow"
         (path "/75f95e95-fee5-421e-9c41-bd357ec1f982"
           (reference "Left_RGB_4") (unit 1)
@@ -2682,6 +2767,11 @@
     (pin "3" (uuid b2e74fbd-53fa-4a52-b62b-3355190d75db))
     (pin "4" (uuid 3121ef00-f33d-4a9e-980e-7fad4cc3f150))
     (instances
+      (project "ferris"
+        (path "/59ff0226-0fdf-4269-ab08-adcb79a798b5/00000000-0000-0000-0000-00005f5b9f94"
+          (reference "Left_RGB_5") (unit 1)
+        )
+      )
       (project "underglow"
         (path "/75f95e95-fee5-421e-9c41-bd357ec1f982"
           (reference "Left_RGB_5") (unit 1)
@@ -2716,6 +2806,11 @@
     (pin "3" (uuid 56a5c16e-bee6-4195-931e-6d021bee4acd))
     (pin "4" (uuid 051abe8f-de39-433a-88e8-d01e38b59609))
     (instances
+      (project "ferris"
+        (path "/59ff0226-0fdf-4269-ab08-adcb79a798b5/00000000-0000-0000-0000-00005f5b9f94"
+          (reference "Left_RGB_6") (unit 1)
+        )
+      )
       (project "underglow"
         (path "/75f95e95-fee5-421e-9c41-bd357ec1f982"
           (reference "Left_RGB_6") (unit 1)
@@ -2750,6 +2845,11 @@
     (pin "3" (uuid acbad39d-eddc-4738-8a3e-78aff7b2a817))
     (pin "4" (uuid 9f49034d-8026-4ace-bca9-0e69b58b08d0))
     (instances
+      (project "ferris"
+        (path "/59ff0226-0fdf-4269-ab08-adcb79a798b5/00000000-0000-0000-0000-00005f5b9f94"
+          (reference "Right_RGB_0") (unit 1)
+        )
+      )
       (project "underglow"
         (path "/75f95e95-fee5-421e-9c41-bd357ec1f982"
           (reference "Right_RGB_0") (unit 1)
@@ -2784,6 +2884,11 @@
     (pin "3" (uuid 3adb374f-55e4-4f76-9089-1ca90645c13c))
     (pin "4" (uuid 724d1735-de19-4fb4-a48b-791b961404cd))
     (instances
+      (project "ferris"
+        (path "/59ff0226-0fdf-4269-ab08-adcb79a798b5/00000000-0000-0000-0000-00005f5b9f94"
+          (reference "Right_RGB_1") (unit 1)
+        )
+      )
       (project "underglow"
         (path "/75f95e95-fee5-421e-9c41-bd357ec1f982"
           (reference "Right_RGB_1") (unit 1)
@@ -2818,6 +2923,11 @@
     (pin "3" (uuid 45fa2e50-7d57-4a29-af5f-73c706c67853))
     (pin "4" (uuid c3165d55-2a9a-4c56-9c98-114c224ace85))
     (instances
+      (project "ferris"
+        (path "/59ff0226-0fdf-4269-ab08-adcb79a798b5/00000000-0000-0000-0000-00005f5b9f94"
+          (reference "Right_RGB_2") (unit 1)
+        )
+      )
       (project "underglow"
         (path "/75f95e95-fee5-421e-9c41-bd357ec1f982"
           (reference "Right_RGB_2") (unit 1)
@@ -2852,6 +2962,11 @@
     (pin "3" (uuid ffdec202-c06e-41f2-aad0-7d7354858a6d))
     (pin "4" (uuid 823ce16d-ea33-43d0-b8e6-6d3f4062ed01))
     (instances
+      (project "ferris"
+        (path "/59ff0226-0fdf-4269-ab08-adcb79a798b5/00000000-0000-0000-0000-00005f5b9f94"
+          (reference "Right_RGB_3") (unit 1)
+        )
+      )
       (project "underglow"
         (path "/75f95e95-fee5-421e-9c41-bd357ec1f982"
           (reference "Right_RGB_3") (unit 1)
@@ -2886,6 +3001,11 @@
     (pin "3" (uuid e3a0a096-3ed2-48af-8b5c-a33d8de7682f))
     (pin "4" (uuid e9ec8d7d-48c0-45af-800c-9d6afc5b2214))
     (instances
+      (project "ferris"
+        (path "/59ff0226-0fdf-4269-ab08-adcb79a798b5/00000000-0000-0000-0000-00005f5b9f94"
+          (reference "Right_RGB_4") (unit 1)
+        )
+      )
       (project "underglow"
         (path "/75f95e95-fee5-421e-9c41-bd357ec1f982"
           (reference "Right_RGB_4") (unit 1)
@@ -2920,6 +3040,11 @@
     (pin "3" (uuid 452ebefb-8fcc-44fc-927c-ab04a99ccea0))
     (pin "4" (uuid 50f90f44-0a85-4d37-86b5-e620ab6472e7))
     (instances
+      (project "ferris"
+        (path "/59ff0226-0fdf-4269-ab08-adcb79a798b5/00000000-0000-0000-0000-00005f5b9f94"
+          (reference "Right_RGB_5") (unit 1)
+        )
+      )
       (project "underglow"
         (path "/75f95e95-fee5-421e-9c41-bd357ec1f982"
           (reference "Right_RGB_5") (unit 1)
@@ -2954,6 +3079,11 @@
     (pin "3" (uuid a41dc948-fbab-45a4-a88f-51aed9aa0eab))
     (pin "4" (uuid dabc7797-0326-40e1-85d2-e53798afeb6b))
     (instances
+      (project "ferris"
+        (path "/59ff0226-0fdf-4269-ab08-adcb79a798b5/00000000-0000-0000-0000-00005f5b9f94"
+          (reference "Right_RGB_6") (unit 1)
+        )
+      )
       (project "underglow"
         (path "/75f95e95-fee5-421e-9c41-bd357ec1f982"
           (reference "Right_RGB_6") (unit 1)
